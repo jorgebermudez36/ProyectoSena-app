@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Punto Mak git practice
+                    OzKr Sierra
                 </div>
 
                 <div class="links">
